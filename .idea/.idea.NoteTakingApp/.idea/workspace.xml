@@ -7,7 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="192fe64c-9d13-463a-8e1a-0e91d3a840d4" name="Changes" comment="" />
+    <list default="true" id="192fe64c-9d13-463a-8e1a-0e91d3a840d4" name="Changes" comment="Project structure setup">
+      <change afterPath="$PROJECT_DIR$/Services/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/Services.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Utils.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModels/MainWindowViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModels/ViewModels.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NoteTakingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NoteTakingApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoteTakingApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NoteTakingApp.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JuliusKryger"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9a22aa2d-a9ce-43f1-b160-c7e3b44c9a51" />
+        <option name="url" value="git@github.com:JuliusKryger/NoteTakingApp.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 8
@@ -30,6 +54,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -76,13 +101,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695659307892</updated>
-      <workItem from="1695659311036" duration="489000" />
+      <workItem from="1695659311036" duration="1179000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Models folder and Note.cs">
+      <option name="closed" value="true" />
+      <created>1695660067479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695660067479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -96,5 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added Models folder and Note.cs" />
+    <MESSAGE value="Project structure setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project structure setup" />
   </component>
 </project>
